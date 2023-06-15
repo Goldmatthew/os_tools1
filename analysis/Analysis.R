@@ -1,7 +1,11 @@
 # setwd("Job/ARCA/course-open-science/code/attachment/01-attachment-base/")
 # rm(list = ls())
 
-# new comment 
+# new comment
+
+
+## altro commit - errore
+
 
 
 reverse_items <- function(array, rangelikert){
