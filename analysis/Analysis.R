@@ -1,6 +1,9 @@
 # setwd("Job/ARCA/course-open-science/code/attachment/01-attachment-base/")
 # rm(list = ls())
 
+# new comment 
+
+
 reverse_items <- function(array, rangelikert){
   # check range
   if (length(rangelikert) != 2){
